@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form {
+  display: block;
+  width: 350px;
+  height: 500px;
+  border-radius: 8px;
+  padding: 20px 30px;
+
+  border: 2px solid;
+}
+
+.form button {
+  margin-left: 140px;
+  border: 0;
+  padding: 8px;
+  border-radius: 5px;
+}
+
+.form label {
+  margin-left: 140px;
+  /* border: 0; */
+  padding: 10px;
+  margin-bottom: 50px;
+  border-radius: 5px;
+  border: 15px;
+}
